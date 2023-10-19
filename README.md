@@ -1,2 +1,2 @@
 # HauntyHouse
-A JavaFX game written for wowowowow so cool Halloween
+A webpage game written for wowowowow so cool Halloween night of spooky fun
